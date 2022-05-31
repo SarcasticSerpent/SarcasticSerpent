@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Anna, I'm a software engineer from Israel. A working GitHub page is long overdue - even though I rarely work on extensive side projects, I'm going to post randowm university tasks here, as well as a project or two here and there :)
+My name is Anna, I'm a software engineer from Israel. I'm sporadically coming up with tiny projects and implementing them here.
 <!--
 **SarcasticSerpent/SarcasticSerpent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
